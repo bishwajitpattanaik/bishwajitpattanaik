@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Bishwajit Pattanaik
 
-💻 Passionate about solving real-world problems
-   and building scalable software
+💻 Passionate about solving real-world problems and building scalable software
 
-🚀 Full Stack Developer working with
-   Java • Python • JavaScript • React.js • Express.js • Node.js • Spring Boot
+🚀 Full Stack Developer — MERN Stack & Java Full Stack
+<br>Java • Python • JavaScript • React.js • Express.js • Node.js • Spring Boot
 
 🗄️ Experienced with databases like
-   MySQL • MongoDB • PostgreSQL • Oracle • PL/SQL
+<br>MySQL • MongoDB • PostgreSQL • Oracle • PL/SQL
 
 🐧 Comfortable working in Linux environments
 
