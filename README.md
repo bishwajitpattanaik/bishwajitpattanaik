@@ -1,25 +1,21 @@
 # 👋 Hi, I'm Bishwajit Pattanaik
 
-🎓 Computer Science & Engineering graduate from **SOA ITER**
+💻 Passionate about solving real-world problems
+   and building scalable software
 
-💻 Passionate about **building scalable and meaningful software**
+🚀 Full Stack Developer working with
+   Java • Python • JavaScript • React.js • Express.js • Node.js • Spring Boot
 
-🚀 Full Stack Developer working with  
-**Java • Python • JavaScript • Node.js • React.js • Spring Boot**
+🗄️ Experienced with databases like
+   MySQL • MongoDB • PostgreSQL • Oracle • PL/SQL
 
-🗄️ Experienced with databases like  
-**MySQL • MongoDB • PostgreSQL • Oracle • PL/SQL**
-
-🐧 Comfortable working in **Linux environments**
+🐧 Comfortable working in Linux environments
 
 🌱 Always learning, improving, and exploring new technologies
 
-🤝 Believe in **discipline, teamwork, and continuous growth**
+🌍 Learning French and curious about new cultures and languages
 
-🌍 Also learning **French (Beginner Level)** and interested in exploring new cultures and languages.
-
-✨ *Turning ideas into code and problems into solutions.*
-
+✨ Turning ideas into code and problems into solutions
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bishwajit-pattanaik-717818320/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bishwajit.pattanaik2004@gmail.com) 
