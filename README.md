@@ -8,7 +8,7 @@
 
 🗄️ Experienced with databases like <br>MySQL • MongoDB • PostgreSQL • Oracle • PL/SQL • Vector Databases
 
-☁️ Familiar with <br>AWS • Git • GitHub • Linux • REST APIs • Docker
+☁️ Familiar with <br>AWS • Git • Linux • REST APIs • Docker • GitHub Actions
 
 🐧 Comfortable working in Linux environments and developer tooling
 
